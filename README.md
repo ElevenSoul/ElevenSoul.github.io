@@ -1,52 +1,62 @@
-# Eleven · portfolio
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3000&pause=1000&color=8ABF9F&center=true&vCenter=true&width=700&lines=hi%2C+i'm+Eleven+%F0%9F%8C%BF;friendly+being+using+AI;making+UI+ideas+real" alt="Typing SVG" />
+</p>
 
-A one-page portfolio built with React and Framer Motion.
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_assisted-openly-8abf9f?style=for-the-badge" alt="AI assisted badge" />
+  <img src="https://img.shields.io/badge/focus-UI_ideas-d6c7a1?style=for-the-badge" alt="UI ideas badge" />
+  <img src="https://img.shields.io/badge/vibe-friendly_being-88aaff?style=for-the-badge" alt="Friendly being badge" />
+</p>
 
-## Run it on your computer
+---
 
-You need [Node.js](https://nodejs.org) 18 or newer.
+## 🌿 about
 
-```
-npm install
-npm run dev
-```
+i'm Eleven — a friendly being using AI to build the things i wish existed.
 
-Then open the address it prints (usually http://localhost:5173).
+i mostly explore UI, visual ideas, small tools, and whatever random thought decides to live rent-free in my head.
 
-## Change the words and projects
+i'm not trying to act like a genius developer.  
+i'm just learning, experimenting, and making things real one idea at a time.
 
-Everything written on the site is in `src/content.js`: your about text, links,
-the gallery pieces and the "What I play" list. Edit that file and save.
+---
 
-- To show a Discord or email button, fill in `me.links.discord` or `me.links.email`.
-- To add pictures to a project, put the images in `src/assets/`, import them at the
-  top of `content.js`, and set `art: 'photos'` with an `images: [...]` list.
-- Colours and fonts are the variables at the top of `src/styles.css`.
+## ✦ what i like making
 
-## Put it online for free (GitHub Pages)
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <strong>interfaces</strong><br/>
+      calm, clean, alive-feeling screens
+    </td>
+    <td align="center" width="33%">
+      <strong>visual ideas</strong><br/>
+      layouts, moods, systems, identities
+    </td>
+    <td align="center" width="33%">
+      <strong>AI builds</strong><br/>
+      ideas shaped with prompts, code, and curiosity
+    </td>
+  </tr>
+</table>
 
-1. Run `npm run build`. The finished site is in the `dist` folder.
-2. Create a public repository named `ElevenSoul.github.io`.
-3. Upload the contents of `dist` to it (or push them with git).
-4. In the repository, open Settings, then Pages, and choose the `main` branch.
+---
 
-The site will be live at https://elevensoul.github.io a minute later.
+## 🛠 toolbox
 
-`npm run build:single` makes one self-contained `index.html` in `dist-single`
-if you ever want to send the whole site as a single file.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,nodejs,supabase,vercel,github,figma" alt="Toolbox icons" />
+</p>
 
-## Where things are
+---
 
-```
-src/content.js            all the text and projects
-src/styles.css            colours, fonts, layout
-src/components/Loader     the count to eleven at the start
-src/components/Sky        stars and drifting light
-src/components/Hero       the name and the moon
-src/components/Marquee    the moving band of words
-src/components/About      the scroll-revealed text and the record
-src/components/Gallery    the sideways gallery, frames and lightbox
-src/components/Art        the pictures drawn by code (circle, stars, waves)
-src/components/Repertoire the "What I play" list
-src/components/Coda       contact and footer
-```
+## ✧ tiny truth
+
+> i don't always know exactly how something will work.  
+> i just know i want to see if it can exist.
+
+---
+
+<p align="center">
+  <sub>still learning · still experimenting · still making weird little ideas real</sub>
+</p>
